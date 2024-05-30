@@ -20,6 +20,8 @@ export default function Meme() {
     setMeme((prevMeme) => ({
       ...prevMeme,
       randomImage: url,
+      topText: "",
+      bottomText: "",
     }));
   }
 
