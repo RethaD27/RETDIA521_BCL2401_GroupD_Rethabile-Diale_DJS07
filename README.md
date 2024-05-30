@@ -6,6 +6,13 @@ This is a simple Meme Generator application built using React and Vite. It allow
 * Add top and bottom text to the selected meme template.
 * Download the generated meme.
 
+## Running the Application
+To start the development server, run:
+
+* bash
+* npm run dev
+This will launch the application in your default web browser. If it doesn't, you can manually open http://localhost:3000 in your browser.
+
 ## Project Structure
 * public/: Contains static files.
 * src/: Contains the source code.
